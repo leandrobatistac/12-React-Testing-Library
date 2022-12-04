@@ -27,4 +27,6 @@ FavoriteInput.propTypes = {
   onUpdateFavoritePokemon: PropTypes.func.isRequired,
 };
 
+// Commit
+
 export default FavoriteInput;
